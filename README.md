@@ -10,7 +10,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 ## 📋 Table of Contents
 - [Key Features](#-key-features)
-- [🚀 Tech Stack](#-tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
 - [Architecture & Directory Structure](#-architecture--directory-structure)
 - [API Documentation](#-api-documentation)
