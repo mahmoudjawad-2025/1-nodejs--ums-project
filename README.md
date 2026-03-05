@@ -32,7 +32,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 🛠️ Tech Stack
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Backend Framework**: Node.js & Express.js
 - **Database**: MySQL & Sequelize ORM
 - **Authentication**: JSON Web Tokens (JWT) & bcryptjs
