@@ -1,7 +1,6 @@
 export const asyncHandler = (func) => {
-    return async (req, res, next) => {
-        return await func(req, res, next);
-
+    return (req, res, next) => {
+        func(req, res, next).catch(next);
     };
 };
 

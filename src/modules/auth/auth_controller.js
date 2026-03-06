@@ -5,7 +5,7 @@ import jwt from 'jsonwebtoken';
 import { registerSchema, loginSchema } from './auth_validation.js';
 import GlobalError from '../../utils/global_error.js';
 
-export const registerUser = async (req, res) => {
+export const registerUser = async (req, res, next) => {
 
     const { userName, email, password } = req.body;
     const hashedPassword = bcrypt.hashSync(password, 8);
