@@ -42,7 +42,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 <br>
 
-## ⚙️ Installation & Setup
+## ⚙️ Getting Started
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
