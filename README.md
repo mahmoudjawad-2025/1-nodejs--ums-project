@@ -11,7 +11,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 ## 📋 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🚀 Tech Stack](#-tech-stack)
-- [⚙️ Getting Started](#getting-started)
+- [⚙️ Getting Started](#setup)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Contributing](#-contributing)
 - [📘 API Documentation](#-api-documentation)
@@ -42,6 +42,7 @@ A robust, secure, and fully-featured User Management System and Blog API built w
 
 <br>
 
+<a name="setup"></a>
 ## ⚙️ Getting Started
 1. **Clone the repository:**
    ```bash
