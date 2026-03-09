@@ -4,7 +4,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-A robust, secure, and fully-featured User Management System and Blog API built with **Node.js, Express, and MySQL**. This project demonstrates clean architecture, secure authentication, and production-ready practices, making it an excellent showcase of backend development skills for recruiters.
+A User Management System and Blog API built with **Node.js**, **Express**, and **MySQL**. This project demonstrates clean architecture and secure authentication, showcasing practical backend development skills.
 
 ---
 
@@ -98,3 +98,11 @@ Contributions, issues, and feature requests are always welcome!
 📧 mahmoudjawad02025@gmail.com
 
 🔗 GitHub: [mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+
+## 📞 Contact
+
+I am actively seeking opportunities where I can contribute my expertise in backend systems, scalable architectures, and clean code principles.
+
+- 📧 **Email**: [mahmoudjawad02025@gmail.com](mailto:mahmoudjawad02025@gmail.com)
+- 💻 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
+- 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
