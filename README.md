@@ -95,14 +95,6 @@ Contributions, issues, and feature requests are always welcome!
 
 ## 📞 Contact
 
-📧 mahmoudjawad02025@gmail.com
-
-🔗 GitHub: [mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
-
-## 📞 Contact
-
-I am actively seeking opportunities where I can contribute my expertise in backend systems, scalable architectures, and clean code principles.
-
 - 📧 **Email**: [mahmoudjawad02025@gmail.com](mailto:mahmoudjawad02025@gmail.com)
 - 💻 **GitHub Profile**: [@mahmoudjawad-2025](https://github.com/mahmoudjawad-2025/)
 - 💼 **LinkedIn:** [linkedin.com/in/mahmoud-abu-alsebaa](https://linkedin.com/in/mahmoud-abu-alsebaa)
